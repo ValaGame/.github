@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+##Welcome to the ValaGame's project !
+
+This is a PRIVATE project.
+
 <!--
 
 **Here are some ideas to get you started:**
