@@ -11,4 +11,4 @@
 ✉️ Autre: [contact@valagames.fr](mailto://contact@valagames.fr)
 📪 CTO: [GitHub](https://github.com/sigmazz) | [Mail](mailto://contact@sigmazz.fr)
 
-❓Pour tout signalements technique, merci d'ouvrir un ticket sur la [https://github.com/ValaGames/public-support/pulls](page dédiée à cela).
+###### ❓Pour tout signalements technique, merci d'ouvrir un ticket sur la [page dédiée à cela](https://github.com/ValaGames/public-support/pulls).
