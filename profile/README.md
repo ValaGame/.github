@@ -4,7 +4,7 @@
   
 ## Liens utiles
 🔎 Site: [valagames.fr](https://valagames.fr)  
-📂 Discord: [Clic](https://discord.gg/AJf3rBDBWt)  
+📂 Discord: [Clic](https://discord.gg/Q3DhjsaktR)
 
 ## Contacts
 📠 Technique: [tech@valagames.fr](mailto://tech@valagames.fr)  
